@@ -1,0 +1,24 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.40203.910",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, MernisServiceReference"
+    ],
+    "references": [
+      "C:\\Users\\YiğitArpacıoğlu\\Desktop\\YİĞİT\\YAZILIM\\GamePlatformDemo\\GamePlatformDemo.DataAccess\\bin\\Debug\\netcoreapp3.1\\GamePlatformDemo.Entities.dll"
+    ],
+    "targetFramework": "netcoreapp3.1",
+    "typeReuseMode": "All"
+  }
+}
